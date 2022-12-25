@@ -1,2 +1,2 @@
 # Calorie-Calculation-Service
-[인기응2] 음식 칼로리 자동 계산 서비스
+[보아즈] 1일 권장섭취량 기준 AI 식단관리
